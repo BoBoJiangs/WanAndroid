@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "LithiumBattery"
+rootProject.name = "WanAndroid"
 include(":app")
  
